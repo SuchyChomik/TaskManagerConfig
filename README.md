@@ -1,3 +1,4 @@
+![IsSupported](https://img.shields.io/badge/supported:-no-red)
 # How to use
 Run the application and type either 1 or 2;  
 1 - Disable Task Manager  
